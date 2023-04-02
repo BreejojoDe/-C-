@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1680420994 source:c:\users\17293\documents\codeblocks\studentinformationsystem\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	<graphics.h>
+	<mmsystem.h>
+	"password_h.h"
+
+1670334366 c:\users\17293\documents\codeblocks\studentinformationsystem\password_h.h
+
+1680421083 source:c:\users\17293\documents\codeblocks\studentinformationsystem\password_h.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<conio.h>
+	<ctype.h>
+	<graphics.h>
+	<windows.h>
+	<Mmsystem.h>
+	"password_h.h"
+
+1670334188 source:c:\users\17293\documents\codeblocks\stuinfosystem\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	<graphics.h>
+	"password_h.h"
+
+1670334366 c:\users\17293\documents\codeblocks\stuinfosystem\password_h.h
+
+1670334344 source:c:\users\17293\documents\codeblocks\stuinfosystem\password_h.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<conio.h>
+	<ctype.h>
+	<graphics.h>
+	<windows.h>
+	"password_h.h"
+
